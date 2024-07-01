@@ -1,15 +1,42 @@
 [
+ 
+
+
     {
-        "name": "Angular",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" 
+        "name": "NodeJs",
+        "icon": "https://img.icons8.com/fluency/48/node-js.png" 
+    },
+   
+   
+    {
+        "name": "Express Js",
+        "icon": "https://img.icons8.com/nolan/64/express-js.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "NestJs",
+        "icon": "https://img.icons8.com/color/48/nestjs.png"
+    },
+
+    {
+        "name": "Mongo Db",
+        "icon": "https://icons8.com/icon/bosfpvRzNOG8/mongo-db" 
     },
     {
-        "name": "Tailwind Css",
-        "icon": "https://img.icons8.com/color/48/tailwind_css.png"
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/fluency/48/mysql-logo.png"
+    },
+    {
+        "name": "CICD",
+        "icon": "https://img.icons8.com/ios-filled/50/water-pipe.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"
+    },
+  
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
         "name": "HTML5",
@@ -20,15 +47,7 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     
-    {
-        "name": "TypeScript",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"
-    },
   
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
     {
         "name": "Figma",
         "icon": "https://img.icons8.com/fluency/48/figma.png"
